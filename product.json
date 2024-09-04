@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/Product Image/1.jpg",
+        "name": "Top Arcade Machine 1",
+        "price": "120.00"
+    },
+    {
+        "id": 2,
+            "image": "./assets/Product Image/2.jpg",
+        "name": "Top Arcade Machine 2",
+        "price": "150.00"
+    },
+    {
+        "id": 3,
+            "image": "./assets/Product Image/3.jpg",
+        "name": "Top Arcade Machine 3",
+        "price": "200.00"
+    },
+    {
+        "id": 4,
+            "image": "./assets/Product Image/4.jpg",
+        "name": "Top Arcade Machine 4",
+        "price": "140.00"
+    },
+    {
+        "id": 5,
+            "image": "./assets/Product Image/5.jpg",
+        "name": "Top Arcade Machine 5",
+        "price": "180.00"
+    },
+    {
+        "id": 6,
+            "image": "./assets/Product Image/6.jpg",
+        "name": "Top Arcade Machine 6",
+        "price": "220.00"
+    },
+    {
+        "id": 7,
+            "image": "./assets/Product Image/7.jpg",
+        "name": "Top Arcade Machine 7",
+        "price": "240.00"
+    },
+    {
+        "id": 8,
+            "image": "./assets/Product Image/8.jpg",
+        "name": "Top Arcade Machine 8",
+        "price": "130.00"
+    },
+    {
+        "id": 9,
+            "image": "./assets/Product Image/9.jpg",
+        "name": "Top Arcade Machine 9",
+        "price": "160.00"
+    },
+    {
+        "id": 10,
+            "image": "./assets/Product Image/10.jpg",
+        "name": "Top Arcade Machine 10",
+        "price": "210.00"
+    },
+    {
+        "id": 11,
+            "image": "./assets/Product Image/11.jpg",
+        "name": "Top Arcade Machine 11",
+        "price": "110.00"
+    },
+    {
+        "id": 12,
+            "image": "./assets/Product Image/12.jpg",
+        "name": "Top Arcade Machine 12",
+        "price": "200.00"
+    },
+    {
+        "id": 13,
+            "image": "./assets/Product Image/13.jpg",
+        "name": "Top Arcade Machine 13",
+        "price": "150.00"
+    },
+    {
+        "id": 14,
+            "image": "./assets/Product Image/14.jpg",
+        "name": "Top Arcade Machine 14",
+        "price": "220.00"
+    },
+    {
+        "id": 15,
+            "image": "./assets/Product Image/15.jpg",
+        "name": "Top Arcade Machine 15",
+        "price": "170.00"
+    },
+    {
+        "id": 16,
+            "image": "./assets/Product Image/16.jpg",
+        "name": "Top Arcade Machine 16",
+        "price": "250.00"
+    },
+    {
+        "id": 17,
+            "image": "./assets/Product Image/17.jpg",
+        "name": "Top Arcade Machine 17",
+        "price": "180.00"
+    },
+    {
+        "id": 18,
+            "image": "./assets/Product Image/18.jpg",
+        "name": "Top Arcade Machine 18",
+        "price": "120.00"
+    },
+    {
+        "id": 19,
+            "image": "./assets/Product Image/19.jpg",
+        "name": "Top Arcade Machine 19",
+        "price": "190.00"
+    },
+    {
+        "id": 20,
+            "image": "./assets/Product Image/20.jpg",
+        "name": "Top Arcade Machine 20",
+        "price": "230.00"
+    },
+    {
+        "id": 21,
+            "image": "./assets/Product Image/21.jpg",
+        "name": "Top Arcade Machine 21",
+        "price": "160.00"
+    },
+    {
+        "id": 22,
+            "image": "./assets/Product Image/22.jpg",
+        "name": "Top Arcade Machine 22",
+        "price": "210.00"
+    },
+    {
+        "id": 23,
+            "image": "./assets/Product Image/23.jpg",
+        "name": "Top Arcade Machine 23",
+        "price": "130.00"
+    },
+    {
+        "id": 24,
+            "image": "./assets/Product Image/24.jpg",
+        "name": "Top Arcade Machine 24",
+        "price": "170.00"
+    },
+    {
+        "id": 25,
+            "image": "./assets/Product Image/25.jpg",
+        "name": "Top Arcade Machine 25",
+        "price": "200.00"
+    },
+    {
+        "id": 26,
+            "image": "./assets/Product Image/2.jpg",
+        "name": "Top Arcade Machine 26",
+        "price": "140.00"
+    },
+    {
+        "id": 27,
+            "image": "./assets/Product Image/26.jpg",
+        "name": "Top Arcade Machine 27",
+        "price": "190.00"
+    },
+    {
+        "id": 28,
+            "image": "./assets/Product Image/27.jpg",
+        "name": "Top Arcade Machine 28",
+        "price": "220.00"
+    },
+    {
+        "id": 29,
+            "image": "./assets/Product Image/28.jpg",
+        "name": "Top Arcade Machine 29",
+        "price": "150.00"
+    },
+    {
+        "id": 30,
+            "image": "./assets/Product Image/29.jpg",
+        "name": "Top Arcade Machine 30",
+        "price": "230.00"
+    },
+    {
+        "id": 31,
+            "image": "./assets/Product Image/30.jpg",
+        "name": "Top Arcade Machine 31",
+        "price": "180.00"
+    },
+    {
+        "id": 32,
+            "image": "./assets/Product Image/31.jpg",
+        "name": "Top Arcade Machine 32",
+        "price": "110.00"
+    },
+    {
+        "id": 33,
+            "image": "./assets/Product Image/32.jpg",
+        "name": "Top Arcade Machine 33",
+        "price": "200.00"
+    },
+    {
+        "id": 34,
+            "image": "./assets/Product Image/33.jpg",
+        "name": "Top Arcade Machine 34",
+        "price": "250.00"
+    },
+    {
+        "id": 35,
+            "image": "./assets/Product Image/34.jpg",
+        "name": "Top Arcade Machine 35",
+        "price": "120.00"
+    },
+    {
+        "id": 36,
+            "image": "./assets/Product Image/35.jpg",
+        "name": "Top Arcade Machine 36",
+        "price": "240.00"
+    },
+    {
+        "id": 37,
+            "image": "./assets/Product Image/36.jpg",
+        "name": "Top Arcade Machine 37",
+        "price": "150.00"
+    },
+    {
+        "id": 38,
+            "image": "./assets/Product Image/37.jpg",
+        "name": "Top Arcade Machine 38",
+        "price": "180.00"
+    },
+    {
+        "id": 39,
+            "image": "./assets/Product Image/38.jpg",
+        "name": "Top Arcade Machine 39",
+        "price": "200.00"
+    },
+    {
+        "id": 40,
+            "image": "./assets/Product Image/39.jpg",
+        "name": "Top Arcade Machine 40",
+        "price": "170.00"
+    },
+    {
+        "id": 41,
+            "image": "./assets/Product Image/40.jpg",
+        "name": "Top Arcade Machine 41",
+        "price": "210.00"
+    },
+    {
+        "id": 42,
+            "image": "./assets/Product Image/41.jpg",
+        "name": "Top Arcade Machine 42",
+        "price": "140.00"
+    },
+    {
+        "id": 43,
+            "image": "./assets/Product Image/42.jpg",
+        "name": "Top Arcade Machine 43",
+        "price": "160.00"
+    },
+    {
+        "id": 44,
+            "image": "./assets/Product Image/43.jpg",
+        "name": "Top Arcade Machine 44",
+        "price": "220.00"
+    },
+    {
+        "id": 45,
+            "image": "./assets/Product Image/44.jpg",
+        "name": "Top Arcade Machine 45",
+        "price": "240.00"
+    },
+    {
+        "id": 46,
+            "image": "./assets/Product Image/45.jpg",
+        "name": "Top Arcade Machine 46",
+        "price": "190.00"
+    },
+    {
+        "id": 47,
+            "image": "./assets/Product Image/46.jpg",
+        "name": "Top Arcade Machine 47",
+        "price": "110.00"
+    },
+    {
+        "id": 48,
+            "image": "./assets/Product Image/47.jpg",
+        "name": "Top Arcade Machine 48",
+        "price": "230.00"
+    },
+    {
+        "id": 49,
+            "image": "./assets/Product Image/48.jpg",
+        "name": "Top Arcade Machine 49",
+        "price": "170.00"
+    },
+    {
+        "id": 50,
+            "image": "./assets/Product Image/49.jpg",
+        "name": "Top Arcade Machine 50",
+        "price": "200.00"
+    }
+]

@@ -1,4 +1,9 @@
 
+
+
+
+
+
 (function() {
   "use strict";
 
@@ -303,89 +308,43 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
-document.addEventListener('DOMContentLoaded', function () {
-  const swiper1 = new Swiper('.mySwiper1', {
-    slidesPerView: 4,
-    spaceBetween: 1,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next1',
-      prevEl: '.swiper-button-prev1',
-    },
-    breakpoints: {
-      // when window width is <= 640px
-      640: {
-        slidesPerView: 1,
-        spaceBetween: 10,
+document.addEventListener('DOMContentLoaded', function() {
+  var swiper = new Swiper('.mySwiper', {
+      slidesPerView: 4,
+      spaceBetween: 10,
+       autoplay: {
+            delay: 2500, // Time between slides in milliseconds
+            disableOnInteraction: false, // Autoplay will not be disabled after interactions
+        },
+      loop: true,
+      pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
       },
-      // when window width is <= 768px
-      768: {
-        slidesPerView: 2,
-        spaceBetween: 10,
+      navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
       },
-      // when window width is <= 1024px
-      1024: {
-        slidesPerView: 3,
-        spaceBetween: 10,
-      },
-    },
-  });
-
-  const swiper2 = new Swiper('.mySwiper2', {
-    slidesPerView: 4,
-    spaceBetween: 10,
-    pagination: {
-      // el: '.swiper-pagination',
-      // clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next2',
-      prevEl: '.swiper-button-prev2',
-    },
-    breakpoints: {
-      640: {
-        slidesPerView: 1,
-        spaceBetween: 10,
-      },
-      768: {
-        slidesPerView: 2,
-        spaceBetween: 10,
-      },
-      1024: {
-        slidesPerView: 3,
-        spaceBetween: 10,
-      },
-    },
-  });
-
-  const swiper3 = new Swiper('.mySwiper3', {
-    slidesPerView: 4,
-    spaceBetween: 10,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next3',
-      prevEl: '.swiper-button-prev3',
-    },
-    breakpoints: {
-      640: {
-        slidesPerView: 1,
-        spaceBetween: 10,
-      },
-      768: {
-        slidesPerView: 2,
-        spaceBetween: 10,
-      },
-      1024: {
-        slidesPerView: 3,
-        spaceBetween: 10,
-      },
-    },
+      breakpoints: {
+          320: {
+              slidesPerView: 2,
+              spaceBetween: 0,
+          },
+          640: {
+              slidesPerView: 2,
+              spaceBetween: 20,
+          },
+          768: {
+              slidesPerView: 3,
+              spaceBetween: 25,
+          },
+          1024: {
+              slidesPerView: 7,
+              spaceBetween: 0,
+          },
+      }
   });
 });
+
+
+
