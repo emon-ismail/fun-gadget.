@@ -1,0 +1,75 @@
+[
+    {
+      "title": "All Product",
+      "link": "#"
+    },
+    {
+      "title": "Arcade Game Machine",
+      "subcategories": [
+        { "name": "Racing Arcade", "link": "#" },
+        { "name": "Arcade Shooting Games", "link": "#" },
+        { "name": "Classic Arcade", "link": "#" },
+        { "name": "Redemption Games", "link": "#" },
+        { "name": "Carnival Games", "link": "#" },
+        { "name": "Dance Arcade Machine", "link": "#" },
+        { "name": "Mini Karaoke Booth", "link": "#" }
+      ]
+    },
+    {
+      "title": "Vending Machine",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Claw Game Machine",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Virtual Reality Machine",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Arcade Sport Games",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Playground Ride",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Interactive Projection Game",
+      "link": "#"
+    },
+    {
+      "title": "Kids Arcade",
+      "subcategories": [
+        { "name": "Option 1", "link": "#" },
+        { "name": "Option 2", "link": "#" },
+        { "name": "Option 3", "link": "#" }
+      ]
+    },
+    {
+      "title": "Venue Management",
+      "link": "#"
+    }
+  ]
+  

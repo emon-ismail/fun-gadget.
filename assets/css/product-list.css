@@ -101,3 +101,135 @@ background-color: var(--default-color);
     font-size: 32px;
   }
 
+li a{
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20px;
+}
+/* Centering list items */
+.list-group-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+/* Hover background pink */
+.list-group-item:hover {
+  background-color: var(--nav-hover-bg-color);
+  color: var(--background-color);
+}
+.list-group-item a:hover {
+  color: var(--background-color);
+}
+.active-bg{
+  background-color: var(--base-color);
+}
+
+.dropdown-item{
+  /* background-color: var(--nav-hover-bg-color); */
+  color: var(--nav-dropdown-hover-color);
+}
+.dropdown-item:hover {
+  background-color: var(--nav-hover-bg-color);
+}
+
+
+
+
+
+
+.contact-info {
+  font-size: 16px;
+}
+.contact-info .icon {
+  font-size: 24px;
+  color: #000;
+  margin-right: 10px;
+}
+.contact-info a {
+  text-decoration: none;
+  color: #000;
+}
+.contact-info .btn {
+  background-color: #ff007f;
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+  padding: 12px 30px;
+}
+.contact-info .btn:hover {
+  background-color: #e60073;
+}
+
+/* span{
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #54595f;
+} */
+
+
+
+/* Custom column widths for larger screens */
+@media (min-width: 992px) {
+  .custom-col-left {
+    flex: 0 0 23%; /* 3.5 out of 12 columns */
+    max-width: 23%;
+  }
+
+  .custom-col-right {
+    flex: 0 0 77%; /* 9.5 out of 12 columns */
+    max-width: 77%;
+  }
+}
+
+/* For smaller devices (below 992px), no need to specify flex or max-width */
+@media (max-width: 991.98px) {
+  .custom-col-left,
+  .custom-col-right {
+    flex: unset;
+    max-width: unset;
+  }
+}
+
+
+.fixed-height-card {
+  height: 380px; /* Set a fixed height for the entire card */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.fixed-height-card .card-body {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Ensure responsiveness for smaller screens */
+@media (max-width: 768px) {
+  .fixed-height-card {
+      height: 300px; /* Adjust the height for smaller screens */
+  }
+}
+@media (max-width: 575px) {
+
+  .fixed-height-card {
+    height: 280px; /* Adjust the height for smaller screens */
+}
+}
+
+.card{
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+.card:hover{
+  box-shadow: 2px 4px 6px rgba(117, 4, 4, 0.3); /* Light shadow */
+}
