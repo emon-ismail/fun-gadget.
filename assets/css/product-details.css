@@ -1,0 +1,303 @@
+
+/* Fonts */
+:root {
+  --default-font: "Roboto", sans-serif;
+  --heading-font: "Londrina Solid", sans-serif;
+  --nav-font: "Roboto", Roboto;
+}
+
+/* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
+:root { 
+  --background-color: #ffffff; /* Background color for the entire website, including individual sections */
+  --default-color: #F5F5F5; /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #042170; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #000E4F; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --base-color:#20033A;
+}
+
+/* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
+:root {
+  --nav-color: #162F71;  /* The default color of the main navmenu links */
+  --nav-hover-color: #0e0f0f; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-color: #555555; /* Used for navigation links of the dropdown items in the navigation menu. */
+  --nav-dropdown-hover-color: #000000; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+  --nav-hover-bg-color: #f2295b; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+}
+
+/* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
+
+.light-background {
+  --background-color: #f9f9f9;
+  --surface-color: #ffffff;
+}
+
+.dark-background {
+  --background-color: #091e5b;
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  --surface-color: #0e2d89;
+  --contrast-color: #ffffff;
+}
+
+/* Smooth scroll */
+:root {
+  scroll-behavior: smooth;
+}
+
+/*--------------------------------------------------------------
+# General Styling & Shared Classes
+--------------------------------------------------------------*/
+body {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  font-family: var(--default-font);
+}
+
+h2 {
+  display: block; /* Ensure h2 is block element */
+}
+
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='red' viewBox='0 0 16 16'%3E%3Cpath d='M11.354 1.354a.5.5 0 0 0-.708 0L4.5 7.5l6.146 6.146a.5.5 0 0 0 .708-.708L5.207 7.5l6.147-6.146a.5.5 0 0 0 0-.708z'/%3E%3C/svg%3E");
+
+
+  }
+  
+  .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='red' viewBox='0 0 16 16'%3E%3Cpath d='M4.646 1.354a.5.5 0 0 1 .708 0L11.5 7.5l-6.146 6.146a.5.5 0 0 1-.708-.708L10.793 7.5 4.646 1.354a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E");
+  }
+
+
+.thumbnail-image {
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .thumbnail-image:hover {
+    border: 2px solid #007bff;
+  }
+  
+  .carousel-item img {
+    max-height: 500px;
+    object-fit: contain;
+  }
+  
+  .product-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .product-description {
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .thumbnail-image {
+      margin-bottom: 5px;
+    }
+  
+    .carousel-item img {
+      max-height: 300px;
+    }
+  
+    .product-title {
+      font-size: 1.2rem;
+    }
+  
+    .product-description {
+      font-size: 0.9rem;
+    }
+  }
+
+
+ /* Remove padding from img-thumbnail to reduce gap */
+ .img-thumbnail {
+    padding: 0; /* Set padding to 0 */
+    border: none; /* Optional: Remove borders to reduce further gap */
+  }
+
+  /* Make the images a bit larger */
+  .thumbnail-image {
+    height: 100px; /* You can adjust the height */
+    width: auto; /* Maintain aspect ratio */
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+  }
+
+  /* Default style for all thumbnails */
+.thumbnail-image {
+  opacity: 0.6; /* Lower opacity for inactive thumbnails */
+  filter: grayscale(50%); /* Apply a gray filter */
+  transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
+}
+
+/* Active thumbnail - fully visible and colorful */
+.thumbnail-image.active {
+  opacity: 1; /* Full opacity */
+  filter: grayscale(0%); /* Remove grayscale filter */
+}
+
+
+
+/* Default font sizes for larger devices */
+.product-title {
+  font-size: 35px;
+  line-height: 41px;
+  font-weight: 600;
+  color: var(--nav-dropdown-hover-color);
+}
+
+.product-description {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #7a7a7a;
+}
+
+/* Adjust font sizes for smaller devices */
+@media (max-width: 768px) {
+  .product-title {
+      font-size: 28px; /* Slightly smaller for tablets and phones */
+      line-height: 34px;
+  }
+
+  .product-description {
+      font-size: 13px; /* Adjusted for smaller screens */
+      line-height: 24px;
+  }
+}
+
+@media (max-width: 576px) {
+  .product-title {
+      font-size: 24px; /* Further reduction for small phones */
+      line-height: 30px;
+  }
+
+  .product-description {
+      font-size: 12px; /* Further reduction for small phones */
+      line-height: 22px;
+  }
+}
+
+.quote-btn  {
+  background-color: var(--nav-hover-bg-color);
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  
+}
+.quote-btn i {
+
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  
+}
+
+
+/* video */
+/* Responsive video container */
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Optional: Ensure the container is responsive on all devices */
+@media (max-width: 576px) {
+  .video-container iframe {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+/* video */
+
+
+  /* Custom font sizes for mobile */
+  @media (max-width: 576px) {
+    h2 {
+      font-size: 1.5rem; /* Smaller font size for mobile */
+    }
+    th, td {
+      font-size: 0.875rem; /* Smaller font size for mobile */
+    }
+  }
+
+  @media (min-width: 577px) {
+    h2 {
+      font-size: 2rem; /* Larger font size for tablet/desktop */
+    }
+    th, td {
+      font-size: 1rem; /* Larger font size for tablet/desktop */
+    }
+  }
+
+
+
+  .fixed-height-card {
+    height: 350px; /* Fixed height for larger screens */
+
+}
+
+
+.fixed-height-card:hover {
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.6);
+  border-radius: 15px;
+}
+
+@media (max-width: 768px) {
+    .fixed-height-card {
+        height: auto; /* Allow auto height on mobile */
+    }
+
+    .card-body p, .card-body ul {
+        font-size: 14px; /* Adjust text size for mobile */
+    }
+
+    .card-body ul {
+        padding-left: 0; /* Remove bullet dots */
+        list-style-type: none;
+    }
+
+    i {
+        font-size: 1.5rem; /* Increase icon size on mobile */
+    }
+}
+
+.card-body p, .card-body ul {
+    margin-bottom: 10px; /* Adjust spacing inside the cards */
+}
+ h2,p{
+  /* color: var(--nav-hover-color); */
+ }
+
+ .breadcumb{
+  background-color: var(--default-color);
+  
+  }
+
+
+@media (max-width: 576px) {
+  ol li{
+font-size: 14px;
+  }
+}

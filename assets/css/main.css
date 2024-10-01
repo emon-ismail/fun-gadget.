@@ -47,6 +47,9 @@
 :root {
   scroll-behavior: smooth;
 }
+h2 {
+  display: block; /* Ensure h2 is block element */
+}
 
 /*--------------------------------------------------------------
 # General Styling & Shared Classes

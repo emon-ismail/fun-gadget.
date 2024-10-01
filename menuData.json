@@ -6,7 +6,7 @@
     {
       "title": "Arcade Game Machine",
       "subcategories": [
-        { "name": "Racing Arcade", "link": "#" },
+        { "name": "Racing Arcade", "link": "http://127.0.0.1:5500/index.html" },
         { "name": "Arcade Shooting Games", "link": "#" },
         { "name": "Classic Arcade", "link": "#" },
         { "name": "Redemption Games", "link": "#" },
@@ -17,54 +17,106 @@
     },
     {
       "title": "Vending Machine",
+     
+
+
+
+
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": " Candy Vending Machine", "link": "#" },
+        { "name": "Popcom Machine", "link": "#" },
+        { "name": "Ice Cream Vending Machine", "link": "#" },
+        { "name": "Booth Vending Machine", "link": "#" },
+        { "name": "Coffee Vending Machine", "link": "#" },
+        { "name": "Other Vending Machine", "link": "#" }
       ]
     },
+
+
+
+
     {
       "title": "Claw Game Machine",
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": "Claw Machine", "link": "#" },
+        { "name": "Gachapon Machine", "link": "#" },
+        { "name": "Cut Your Prize Machine", "link": "#" },
+        { "name": "Other Prize Vending Machine", "link": "#" }
+        
       ]
     },
+
+   
+
+
+
     {
       "title": "Virtual Reality Machine",
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": " VR Shooting Machine", "link": "#" },
+        { "name": "VR Racing Simulator", "link": "#" },
+        { "name": "VR 360 Chair", "link": "#" },
+        { "name": "9D VR Cinerna", "link": "#" }
       ]
     },
+
+   
+    
+    
+    
+   
+ 
+
+    
+
     {
       "title": "Arcade Sport Games",
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": " Arcade Air Hockey Table", "link": "#" },
+        { "name": "Boxing Punch Machine", "link": "#" },
+        { "name": "Basketball Arcade Machine", "link": "#" },
+        { "name": "Hammer Arcade Machine", "link": "#" },
+        { "name": " Foosball Table", "link": "#" },
+        { "name": "Golf Simulator", "link": "#" },
+        { "name": "Electronic Dart Machine", "link": "#" },
+        { "name": "Bowling Arcade Game", "link": "#" }
       ]
     },
+    
+    
+   
+    
+
     {
       "title": "Playground Ride",
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": "360 Rolling Car", "link": "#" },
+        { "name": "Robot Ride", "link": "#" },
+        { "name": " Karting Car", "link": "#" },
+        { "name": "Arnusement Park Electric Car", "link": "#" }
+    
       ]
     },
     {
       "title": "Interactive Projection Game",
       "link": "#"
     },
+
+    
+
+
+
+
+
     {
       "title": "Kids Arcade",
       "subcategories": [
-        { "name": "Option 1", "link": "#" },
-        { "name": "Option 2", "link": "#" },
-        { "name": "Option 3", "link": "#" }
+        { "name": "Kiddie Ride", "link": "#" },
+        { "name": "Kids Racing Arcade", "link": "#" },
+        { "name": "Kids Shooting Arcade", "link": "#" },
+        { "name": "Kiddie Carousel", "link": "#" },
+        { "name": "Whac A Mole Arcade", "link": "#" },
+        { "name": "Other Kids Arcade", "link": "#" }
       ]
     },
     {
