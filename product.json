@@ -4,8 +4,15 @@
         "image": "./assets/Product Image/1.jpg",
         "name": "Rush Ball Arcade Ticket Games",
         "price": "120.00",
-        "Category": "Arcade Game Machine",
-        "description": "A fast-paced arcade ticket game that challenges players with quick reflexes. Perfect for any arcade venue."
+        "category": "Arcade Game Machine",
+        "description": "A fast-paced arcade ticket game that challenges players with quick reflexes. Perfect for any arcade venue.",
+        "images": [
+            "./assets/Product Image/1.jpg",
+            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+        ]
     },
     {
         "id": 2,
