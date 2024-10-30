@@ -1,409 +1,752 @@
 [
-    {
-        "id": 1,
-        "image": "./assets/Product Image/1.jpg",
-        "name": "Rush Ball Arcade Ticket Games",
-        "price": "120.00",
-        "category": "Arcade Game Machine",
-        "description": "A fast-paced arcade ticket game that challenges players with quick reflexes. Perfect for any arcade venue.",
-        "images": [
-            "./assets/Product Image/1.jpg",
-            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
-            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
-            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
-            "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
-        ]
-    },
-    {
-        "id": 2,
-        "image": "./assets/Product Image/2.jpg",
-        "name": "Treasure Of Egypt Coin Pusher Arcade Machine",
-        "price": "150.00",
-        "Category": "Arcade Game Machine",
-        "description": "Experience the treasures of ancient Egypt with this exciting coin pusher game. A favorite in family entertainment centers."
-    },
-    {
-        "id": 3,
-        "image": "./assets/Product Image/3.jpg",
-        "name": "Dragon ORB Ticket Redemption Game Machine",
-        "price": "200.00",
-        "Category": "Arcade Game Machine",
-        "description": "Battle the dragon and collect orbs to win tickets. This redemption game is loved by all ages."
-    },
-    {
-        "id": 4,
-        "image": "./assets/Product Image/4.jpg",
-        "name": "Ball Monster Ticket Redemption Game Arcade",
-        "price": "140.00",
-        "Category": "Arcade Game Machine",
-        "description": "Monsters and balls unite in this ticket redemption game, providing endless fun for players."
-    },
-    {
-        "id": 5,
-        "image": "./assets/Product Image/5.jpg",
-        "name": "Crazy Toy City 2 Ticket Redemption Game Machine",
-        "price": "180.00",
-        "Category": "Arcade Game Machine",
-        "description": "Enter the Crazy Toy City and challenge yourself to win as many tickets as possible. A colorful and engaging game."
-    },
-    {
-        "id": 6,
-        "image": "./assets/Product Image/6.jpg",
-        "name": "3 Players Magic Ball Miracle Redemption Arcade Machine",
-        "price": "220.00",
-        "Category": "Arcade Game Machine",
-        "description": "Test your skills with magic balls in this multiplayer redemption game. Compete with friends for the highest score."
-    },
-    {
-        "id": 7,
-        "image": "./assets/Product Image/7.jpg",
-        "name": "Shark/Dinosaur Wheel Ticket Redemption Arcade",
-        "price": "240.00",
-        "Category": "Arcade Game Machine",
-        "description": "Spin the wheel and try your luck with sharks or dinosaurs. A thrilling arcade game for all ages."
-    },
-    {
-        "id": 8,
-        "image": "./assets/Product Image/8.jpg",
-        "name": "Paike Enclosed Photo Booth",
-        "price": "130.00",
-        "Category": "Vending Machine",
-        "description": "Capture memories with this enclosed photo booth, perfect for events and parties."
-    },
-    {
-        "id": 9,
-        "image": "./assets/Product Image/9.jpg",
-        "name": "24/7 Automatic Pizza Vending Machine",
-        "price": "160.00",
-        "Category": "Vending Machine",
-        "description": "Get fresh pizza anytime with this automatic pizza vending machine, a must-have for high-traffic areas."
-    },
-    {
-        "id": 10,
-        "image": "./assets/Product Image/10.jpg",
-        "name": "Automatic Ice Cream Vending Machine",
-        "price": "210.00",
-        "Category": "Vending Machine",
-        "description": "Serve ice cream 24/7 with this automatic vending machine, perfect for summer venues and malls."
-    },
-    {
-        "id": 11,
-        "image": "./assets/Product Image/11.jpg",
-        "name": "Candy Beans Dispenser Vending Machine",
-        "price": "110.00",
-        "Category": "Vending Machine",
-        "description": "A classic candy dispenser that attracts kids and adults alike with its colorful beans."
-    },
-    {
-        "id": 12,
-        "image": "./assets/Product Image/12.jpg",
-        "name": "Mini Room Soft Serve Ice Cream Vending Machine",
-        "price": "200.00",
-        "Category": "Vending Machine",
-        "description": "A compact ice cream vending machine that serves delicious soft serve cones."
-    },
-    {
-        "id": 13,
-        "image": "./assets/Product Image/13.jpg",
-        "name": "Soft Ice Cream Vending Machine",
-        "price": "150.00",
-        "Category": "Vending Machine",
-        "description": "Make soft serve ice cream anytime, anywhere with this easy-to-use vending machine."
-    },
-    {
-        "id": 14,
-        "image": "./assets/Product Image/14.jpg",
-        "name": "Vintage Photo Booth Vending Machine",
-        "price": "220.00",
-        "Category": "Vending Machine",
-        "description": "Bring nostalgia to any event with this vintage photo booth machine."
-    },
-    {
-        "id": 15,
-        "image": "./assets/Product Image/15.jpg",
-        "name": "4 Players Lucky Tower Crane Toy Catching Claw Machine",
-        "price": "170.00",
-        "Category": "Claw Game Machine",
-        "description": "Test your luck and skill in this 4-player crane toy catching game."
-    },
-    {
-        "id": 16,
-        "image": "./assets/Product Image/16.jpg",
-        "name": "Crazy Monster Ball Catch Prize Redemption Arcade Machine",
-        "price": "250.00",
-        "Category": "Claw Game Machine",
-        "description": "Catch the monster balls to win prizes in this exciting redemption arcade machine."
-    },
-    {
-        "id": 17,
-        "image": "./assets/Product Image/17.jpg",
-        "name": "Toys Star Stick Push Prize Redemption Arcade",
-        "price": "180.00",
-        "Category": "Claw Game Machine",
-        "description": "Push the stars to win prizes in this entertaining prize redemption game."
-    },
-    {
-        "id": 18,
-        "image": "./assets/Product Image/18.jpg",
-        "name": "Capsule Pro Capsule Prize Redemption Game Machine",
-        "price": "120.00",
-        "Category": "Claw Game Machine",
-        "description": "Collect capsules and win exciting prizes in this fun arcade machine."
-    },
-    {
-        "id": 19,
-        "image": "./assets/Product Image/19.jpg",
-        "name": "Mech Warrior Capsule Prize Machine",
-        "price": "190.00",
-        "Category": "Claw Game Machine",
-        "description": "Join the battle and collect prizes in this Mech Warrior-themed prize machine."
-    },
-    {
-        "id": 20,
-        "image": "./assets/Product Image/20.jpg",
-        "name": "British Style Cut The Rope Claw Machine",
-        "price": "230.00",
-        "Category": "Claw Game Machine",
-        "description": "A British-themed claw machine where players must cut the rope to claim their prize."
-    },
-    {
-        "id": 21,
-        "image": "./assets/Product Image/21.jpg",
-        "name": "Space Kitten Stuffed Toy Claw Machine",
-        "price": "160.00",
-        "Category": "Claw Game Machine",
-        "description": "Win adorable stuffed kittens in this Space-themed claw machine."
-    },
-    {
-        "id": 22,
-        "image": "./assets/Product Image/22.jpg",
-        "name": "2 Players VR Super Gatling Virtual Reality Shooting Simulator",
-        "price": "210.00",
-        "Category": "Virtual Reality Machine",
-        "description": "A thrilling VR shooting simulator where players team up to defeat enemies in virtual worlds."
-    },
-    {
-        "id": 23,
-        "image": "./assets/Product Image/23.jpg",
-        "name": "VR Starship 6 Players 9D Virtual Reality Cinema Simulator",
-        "price": "130.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Experience virtual reality movies with up to 6 friends in this immersive 9D simulator."
-    },
-    {
-        "id": 24,
-        "image": "./assets/Product Image/24.jpg",
-        "name": "Space Coaster 9d VR 360 Motion Chair Roller Coaster Simulator",
-        "price": "170.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Feel the thrill of a roller coaster in this fully immersive 360 VR motion chair simulator."
-    },
-    {
-        "id": 25,
-        "image": "./assets/Product Image/25.jpg",
-        "name": "VR Space Racing Virtual Reality Car Driving Simulator",
-        "price": "200.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Race through space in this exciting VR car driving simulator."
-    },
-    {
-        "id": 26,
-        "image": "./assets/Product Image/26.jpg",
-        "name": "VR Space Wheel VR Motorcycle Simulator Arcade",
-        "price": "140.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Experience high-speed motorcycle racing in space with this VR simulator."
-    },
-    {
-        "id": 27,
-        "image": "./assets/Product Image/27.jpg",
-        "name": "VR Super Agent 360 Virtual Reality Shooting Simulator",
-        "price": "150.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Step into the shoes of a super agent in this 360 VR shooting simulator."
-    },
-    {
-        "id": 28,
-        "image": "./assets/Product Image/28.jpg",
-        "name": "VR Family Cinema 9D Virtual Reality Motion Chair",
-        "price": "190.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Bring the family together with this 9D VR motion chair cinema experience."
-    },
-    {
-        "id": 29,
-        "image": "./assets/Product Image/29.jpg",
-        "name": "Kids Dino Claw Machine",
-        "price": "100.00",
-        "Category": "Claw Game Machine",
-        "description": "Fun for kids, this dino-themed claw machine offers delightful prizes."
-    },
-    {
-        "id": 30,
-        "image": "./assets/Product Image/30.jpg",
-        "name": "Ocean Treasure Claw Machine",
-        "price": "180.00",
-        "Category": "Claw Game Machine",
-        "description": "Dive into the ocean and try your luck to catch ocean-themed treasures in this claw machine."
-    },
-    {
-        "id": 31,
-        "image": "./assets/Product Image/31.jpg",
-        "name": "Coin Operated Selfie Station",
-        "price": "110.00",
-        "Category": "Vending Machine",
-        "description": "Capture the moment with this coin-operated selfie station, perfect for any event."
-    },
-    {
-        "id": 32,
-        "image": "./assets/Product Image/32.jpg",
-        "name": "Snack And Soda Combo Vending Machine",
-        "price": "170.00",
-        "Category": "Vending Machine",
-        "description": "Conveniently serve both snacks and sodas with this combo vending machine."
-    },
-    {
-        "id": 33,
-        "image": "./assets/Product Image/33.jpg",
-        "name": "Toy Capsule Vending Machine",
-        "price": "140.00",
-        "Category": "Vending Machine",
-        "description": "Kids will love trying to collect toys in this capsule vending machine."
-    },
-    {
-        "id": 34,
-        "image": "./assets/Product Image/34.jpg",
-        "name": "Gumball Machine Vending",
-        "price": "130.00",
-        "Category": "Vending Machine",
-        "description": "Classic gumball vending machine, a nostalgic addition to any arcade."
-    },
-    {
-        "id": 35,
-        "image": "./assets/Product Image/35.jpg",
-        "name": "Claw Machine Monster Catch",
-        "price": "170.00",
-        "Category": "Claw Game Machine",
-        "description": "Try to catch a monster in this exciting claw game machine, featuring fun designs."
-    },
-    {
-        "id": 36,
-        "image": "./assets/Product Image/36.jpg",
-        "name": "Giant Toy Grab Claw Machine",
-        "price": "250.00",
-        "Category": "Claw Game Machine",
-        "description": "A giant-sized claw machine offering big plush prizes, ideal for family entertainment centers."
-    },
-    {
-        "id": 37,
-        "image": "./assets/Product Image/37.jpg",
-        "name": "Superhero Action Figure Claw Machine",
-        "price": "230.00",
-        "Category": "Claw Game Machine",
-        "description": "Catch your favorite superhero action figures in this fun and challenging claw machine."
-    },
-    {
-        "id": 38,
-        "image": "./assets/Product Image/38.jpg",
-        "name": "Popcorn Vending Machine",
-        "price": "100.00",
-        "Category": "Vending Machine",
-        "description": "Serve fresh popcorn anytime with this automatic popcorn vending machine."
-    },
-    {
-        "id": 39,
-        "image": "./assets/Product Image/39.jpg",
-        "name": "VR Battle Arena Virtual Reality Shooter",
-        "price": "210.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Enter the battle arena in this VR shooter and fight to claim victory."
-    },
-    {
-        "id": 40,
-        "image": "./assets/Product Image/40.jpg",
-        "name": "Bubble Gum Ball Claw Machine",
-        "price": "130.00",
-        "Category": "Claw Game Machine",
-        "description": "Catch the bubble gum balls and win exciting prizes in this colorful claw machine."
-    },
-    {
-        "id": 41,
-        "image": "./assets/Product Image/41.jpg",
-        "name": "UFO Capsule Prize Game",
-        "price": "190.00",
-        "Category": "Claw Game Machine",
-        "description": "Capture UFO-themed capsules to unlock cool prizes in this futuristic game."
-    },
-    {
-        "id": 42,
-        "image": "./assets/Product Image/42.jpg",
-        "name": "Mini Claw Machine Toy Prize Grabber",
-        "price": "120.00",
-        "Category": "Claw Game Machine",
-        "description": "A smaller version of the claw machine, offering toy prizes for kids."
-    },
-    {
-        "id": 43,
-        "image": "./assets/Product Image/43.jpg",
-        "name": "Sports Challenge VR Soccer Simulator",
-        "price": "200.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Test your soccer skills in this VR sports challenge game, complete with realistic movement."
-    },
-    {
-        "id": 44,
-        "image": "./assets/Product Image/44.jpg",
-        "name": "Animal Friends Toy Claw Machine",
-        "price": "150.00",
-        "Category": "Claw Game Machine",
-        "description": "Catch cute animal toys in this claw machine, perfect for younger players."
-    },
-    {
-        "id": 45,
-        "image": "./assets/Product Image/45.jpg",
-        "name": "Alien Adventure VR Shooter",
-        "price": "220.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Take down alien invaders in this high-paced VR shooting simulator."
-    },
-    {
-        "id": 46,
-        "image": "./assets/Product Image/46.jpg",
-        "name": "Classic Claw Machine Retro Style",
-        "price": "110.00",
-        "Category": "Claw Game Machine",
-        "description": "A retro-style claw machine, reminiscent of classic arcades from the past."
-    },
-    {
-        "id": 47,
-        "image": "./assets/Product Image/47.jpg",
-        "name": "Jungle Adventure Claw Machine",
-        "price": "190.00",
-        "Category": "Claw Game Machine",
-        "description": "Venture into the jungle and catch rare animal toys in this themed claw machine."
-    },
-    {
-        "id": 48,
-        "image": "./assets/Product Image/48.jpg",
-        "name": "Pirate Treasure Hunt VR",
-        "price": "250.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Set sail on a pirate adventure in this VR treasure hunt game."
-    },
-    {
-        "id": 49,
-        "image": "./assets/Product Image/49.jpg",
-        "name": "Dino Fossil Excavation Claw Machine",
-        "price": "170.00",
-        "Category": "Claw Game Machine",
-        "description": "Dig up dino fossils and win prizes in this prehistoric-themed claw machine."
-    },
-    {
-        "id": 50,
-        "image": "./assets/Product Image/50.jpg",
-        "name": "Carnival Toss VR Carnival Games",
-        "price": "130.00",
-        "Category": "Virtual Reality Machine",
-        "description": "Enjoy classic carnival games in this VR experience, complete with ring toss and more."
-    }
+  {
+    "id": 1,
+    "image": "./assets/Product Image/1.jpg",
+    "name": "Rush Ball Arcade Ticket Redemption Games",
+    "price": "130.00",
+    "category": "Arcade Game Machine",
+    "description": "A fun and exciting ticket redemption game where players rush to collect balls.",
+    "images": [
+      "./assets/Product Image/1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "./assets/Product Image/2.jpg",
+    "name": "Popcorn Vending Machine",
+    "price": "200.00",
+    "category": "Vending Machine",
+    "description": "A convenient vending machine that dispenses freshly popped popcorn.",
+    "images": [
+      "./assets/Product Image/2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "./assets/Product Image/3.jpg",
+    "name": "Snack Vending Machine",
+    "price": "180.00",
+    "category": "Vending Machine",
+    "description": "A vending machine for quick and easy snack dispensing, ideal for offices and schools.",
+    "images": [
+      "./assets/Product Image/3.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "./assets/Product Image/4.jpg",
+    "name": "Toy Crane Claw Machine",
+    "price": "150.00",
+    "category": "Arcade Game Machine",
+    "description": "A popular claw machine that challenges players to grab prizes with a crane.",
+    "images": [
+      "./assets/Product Image/4.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "./assets/Product Image/5.jpg",
+    "name": "Interactive Basketball Arcade Game",
+    "price": "210.00",
+    "category": "Arcade Game Machine",
+    "description": "Shoot hoops and score points in this fast-paced basketball arcade game.",
+    "images": [
+      "./assets/Product Image/5.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "./assets/Product Image/6.jpg",
+    "name": "Mini Toy Capsule Vending Machine",
+    "price": "130.00",
+    "category": "Vending Machine",
+    "description": "Dispense fun mini toy capsules with this compact vending machine.",
+    "images": [
+      "./assets/Product Image/6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "./assets/Product Image/7.jpg",
+    "name": "Digital Photo Booth",
+    "price": "250.00",
+    "category": "Entertainment Machine",
+    "description": "Capture memories with this digital photo booth, perfect for events and venues.",
+    "images": [
+      "./assets/Product Image/7.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "./assets/Product Image/8.jpg",
+    "name": "Toy Dispenser Capsule Machine",
+    "price": "160.00",
+    "category": "Vending Machine",
+    "description": "A vending machine for toy capsules that keeps kids excited for surprise toys.",
+    "images": [
+      "./assets/Product Image/8.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "./assets/Product Image/9.jpg",
+    "name": "Karaoke Booth",
+    "price": "270.00",
+    "category": "Entertainment Machine",
+    "description": "Sing your heart out in this private karaoke booth, perfect for public spaces and events.",
+    "images": [
+      "./assets/Product Image/9.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "./assets/Product Image/10.jpg",
+    "name": "Beverage Vending Machine",
+    "price": "220.00",
+    "category": "Vending Machine",
+    "description": "Dispense chilled beverages with ease using this reliable vending machine.",
+    "images": [
+      "./assets/Product Image/10.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "./assets/Product Image/11.jpg",
+    "name": "Automatic Popcorn Vending Machine",
+    "price": "140.00",
+    "category": "Vending Machine",
+    "description": "Enjoy fresh popcorn with this convenient vending machine, ideal for cinemas and entertainment venues.",
+    "images": [
+      "./assets/Product Image/11.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "./assets/Product Image/12.jpg",
+    "name": "Snack & Beverage Combo Vending Machine",
+    "price": "230.00",
+    "category": "Vending Machine",
+    "description": "Provide snacks and beverages in a single unit, perfect for schools and office buildings.",
+    "images": [
+      "./assets/Product Image/12.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "image": "./assets/Product Image/13.jpg",
+    "name": "24/7 Smart Pharmacy Vending Machine",
+    "price": "300.00",
+    "category": "Vending Machine",
+    "description": "Dispense over-the-counter medications anytime with this smart pharmacy vending machine.",
+    "images": [
+      "./assets/Product Image/13.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "image": "./assets/Product Image/14.jpg",
+    "name": "Self-Checkout Kiosk Machine",
+    "price": "250.00",
+    "category": "Vending Machine",
+    "description": "Streamline shopping with this self-checkout kiosk, designed for retail and grocery stores.",
+    "images": [
+      "./assets/Product Image/14.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "image": "./assets/Product Image/15.jpg",
+    "name": "Coin-Operated Claw Crane Machine",
+    "price": "190.00",
+    "category": "Arcade Game Machine",
+    "description": "A classic claw crane machine that attracts players with the promise of prizes.",
+    "images": [
+      "./assets/Product Image/15.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "image": "./assets/Product Image/16.jpg",
+    "name": "Pirate Treasure Ticket Redemption Game",
+    "price": "170.00",
+    "category": "Arcade Game Machine",
+    "description": "Join the pirate adventure and collect treasures in this exciting redemption game.",
+    "images": [
+      "./assets/Product Image/16.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "image": "./assets/Product Image/17.jpg",
+    "name": "Air Hockey Table Game Machine",
+    "price": "220.00",
+    "category": "Arcade Game Machine",
+    "description": "Challenge friends with this arcade-style air hockey table, a staple in game centers.",
+    "images": [
+      "./assets/Product Image/17.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "image": "./assets/Product Image/18.jpg",
+    "name": "Dance Revolution Arcade Machine",
+    "price": "300.00",
+    "category": "Arcade Game Machine",
+    "description": "Get your dance moves on with this popular rhythm-based arcade game.",
+    "images": [
+      "./assets/Product Image/18.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "image": "./assets/Product Image/19.jpg",
+    "name": "Pinball Machine Classic Arcade Game",
+    "price": "250.00",
+    "category": "Arcade Game Machine",
+    "description": "A classic pinball machine that captivates players of all ages.",
+    "images": [
+      "./assets/Product Image/19.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "image": "./assets/Product Image/20.jpg",
+    "name": "Boxing Arcade Game Machine",
+    "price": "210.00",
+    "category": "Arcade Game Machine",
+    "description": "Test your strength with this boxing arcade machine, ideal for sports enthusiasts.",
+    "images": [
+      "./assets/Product Image/20.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "image": "./assets/Product Image/21.jpg",
+    "name": "Mini Arcade Racer Game Machine",
+    "price": "200.00",
+    "category": "Arcade Game Machine",
+    "description": "Race against the clock in this thrilling mini arcade racing game.",
+    "images": [
+      "./assets/Product Image/21.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "image": "./assets/Product Image/22.jpg",
+    "name": "Retro Arcade Shooting Game Machine",
+    "price": "240.00",
+    "category": "Arcade Game Machine",
+    "description": "Enjoy classic shooting gameplay with this retro arcade shooting machine.",
+    "images": [
+      "./assets/Product Image/22.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "image": "./assets/Product Image/23.jpg",
+    "name": "Fish Hunter Arcade Game Machine",
+    "price": "270.00",
+    "category": "Arcade Game Machine",
+    "description": "Catch as many fish as possible in this engaging fishing arcade game.",
+    "images": [
+      "./assets/Product Image/23.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "image": "./assets/Product Image/24.jpg",
+    "name": "Miniature Train Ride",
+    "price": "400.00",
+    "category": "Entertainment Machine",
+    "description": "A small train ride for children, perfect for amusement parks or playgrounds.",
+    "images": [
+      "./assets/Product Image/24.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "image": "./assets/Product Image/25.jpg",
+    "name": "Mini Ferris Wheel Ride",
+    "price": "500.00",
+    "category": "Entertainment Machine",
+    "description": "Experience a classic amusement ride with this miniature ferris wheel.",
+    "images": [
+      "./assets/Product Image/25.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "image": "./assets/Product Image/26.jpg",
+    "name": "Motorcycle Racing Arcade Game",
+    "price": "290.00",
+    "category": "Arcade Game Machine",
+    "description": "Ride into the thrill of motorcycle racing with this realistic arcade game.",
+    "images": [
+      "./assets/Product Image/26.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "image": "./assets/Product Image/27.jpg",
+    "name": "Guitar Hero Arcade Machine",
+    "price": "320.00",
+    "category": "Arcade Game Machine",
+    "description": "Rock out with this guitar hero arcade machine, perfect for music lovers.",
+    "images": [
+      "./assets/Product Image/27.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "image": "./assets/Product Image/28.jpg",
+    "name": "Mini Bowling Alley Game",
+    "price": "260.00",
+    "category": "Arcade Game Machine",
+    "description": "Experience the excitement of bowling with this mini arcade bowling alley.",
+    "images": [
+      "./assets/Product Image/28.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "image": "./assets/Product Image/29.jpg",
+    "name": "Haunted House Shooting Game",
+    "price": "340.00",
+    "category": "Arcade Game Machine",
+    "description": "Brave the haunted house and take down ghosts in this thrilling shooting game.",
+    "images": [
+      "./assets/Product Image/29.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "image": "./assets/Product Image/30.jpg",
+    "name": "Toy Capsule Dispenser",
+    "price": "180.00",
+    "category": "Vending Machine",
+    "description": "A fun capsule dispenser machine filled with toys, perfect for kids.",
+    "images": [
+      "./assets/Product Image/30.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "image": "./assets/Product Image/31.jpg",
+    "name": "Self-Serve Ice Cream Machine",
+    "price": "230.00",
+    "category": "Vending Machine",
+    "description": "Serve your own ice cream with this convenient self-serve ice cream machine.",
+    "images": [
+      "./assets/Product Image/31.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "image": "./assets/Product Image/32.jpg",
+    "name": "Roller Coaster VR Simulator",
+    "price": "520.00",
+    "category": "Entertainment Machine",
+    "description": "Experience a thrilling roller coaster ride with this VR simulator.",
+    "images": [
+      "./assets/Product Image/32.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "image": "./assets/Product Image/33.jpg",
+    "name": "Coin-Operated Ride-On Animal",
+    "price": "150.00",
+    "category": "Entertainment Machine",
+    "description": "Kids can ride on this adorable coin-operated animal ride, great for malls.",
+    "images": [
+      "./assets/Product Image/33.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "image": "./assets/Product Image/34.jpg",
+    "name": "Speed Racing Car Game",
+    "price": "280.00",
+    "category": "Arcade Game Machine",
+    "description": "Race at top speeds in this arcade racing game, a thrill for car enthusiasts.",
+    "images": [
+      "./assets/Product Image/34.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "image": "./assets/Product Image/35.jpg",
+    "name": "Candy Floss Vending Machine",
+    "price": "190.00",
+    "category": "Vending Machine",
+    "description": "Dispense delicious candy floss with this compact vending machine.",
+    "images": [
+      "./assets/Product Image/35.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "image": "./assets/Product Image/36.jpg",
+    "name": "Space Shooter Arcade Game",
+    "price": "260.00",
+    "category": "Arcade Game Machine",
+    "description": "Defend the galaxy in this action-packed space shooter arcade game.",
+    "images": [
+      "./assets/Product Image/36.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "image": "./assets/Product Image/37.jpg",
+    "name": "360-Degree VR Motion Simulator",
+    "price": "600.00",
+    "category": "Entertainment Machine",
+    "description": "Experience immersive virtual reality with this 360-degree motion simulator.",
+    "images": [
+      "./assets/Product Image/37.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "image": "./assets/Product Image/38.jpg",
+    "name": "Soccer Game Table",
+    "price": "210.00",
+    "category": "Arcade Game Machine",
+    "description": "Challenge friends to a soccer game on this arcade-style game table.",
+    "images": [
+      "./assets/Product Image/38.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "image": "./assets/Product Image/39.jpg",
+    "name": "Mini Jukebox Machine",
+    "price": "280.00",
+    "category": "Entertainment Machine",
+    "description": "Play classic tunes with this mini jukebox, ideal for retro enthusiasts.",
+    "images": [
+      "./assets/Product Image/39.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "image": "./assets/Product Image/40.jpg",
+    "name": "Boxing Arcade Game Machine",
+    "price": "210.00",
+    "category": "Arcade Game Machine",
+    "description": "Test your strength with this boxing arcade machine, ideal for sports enthusiasts.",
+    "images": [
+      "./assets/Product Image/40.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "image": "./assets/Product Image/41.jpg",
+    "name": "Fishing Ticket Redemption Game",
+    "price": "280.00",
+    "category": "Arcade Game Machine",
+    "description": "Catch as many fish as you can and earn tickets in this fishing game.",
+    "images": [
+      "./assets/Product Image/41.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "image": "./assets/Product Image/42.jpg",
+    "name": "Maze Runner Game Machine",
+    "price": "310.00",
+    "category": "Arcade Game Machine",
+    "description": "Navigate the maze and collect rewards in this exciting arcade game.",
+    "images": [
+      "./assets/Product Image/42.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "image": "./assets/Product Image/43.jpg",
+    "name": "Interactive Basketball Arcade Game",
+    "price": "270.00",
+    "category": "Arcade Game Machine",
+    "description": "Shoot hoops and score big with this basketball arcade game.",
+    "images": [
+      "./assets/Product Image/43.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "image": "./assets/Product Image/44.jpg",
+    "name": "Robot Battle Arena Game",
+    "price": "340.00",
+    "category": "Arcade Game Machine",
+    "description": "Engage in thrilling robot battles in this action-packed arcade game.",
+    "images": [
+      "./assets/Product Image/44.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "image": "./assets/Product Image/45.jpg",
+    "name": "Candy Vending Machine",
+    "price": "200.00",
+    "category": "Vending Machine",
+    "description": "A classic candy vending machine that dispenses sweet treats.",
+    "images": [
+      "./assets/Product Image/45.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "image": "./assets/Product Image/46.jpg",
+    "name": "Mini Crane Game Machine",
+    "price": "180.00",
+    "category": "Arcade Game Machine",
+    "description": "Pick up prizes with this mini crane game machine, a hit among kids.",
+    "images": [
+      "./assets/Product Image/46.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "image": "./assets/Product Image/47.jpg",
+    "name": "Horse Ride Simulator",
+    "price": "290.00",
+    "category": "Entertainment Machine",
+    "description": "Experience the joy of horse riding with this realistic simulator.",
+    "images": [
+      "./assets/Product Image/47.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "image": "./assets/Product Image/48.jpg",
+    "name": "Toy Claw Machine",
+    "price": "220.00",
+    "category": "Arcade Game Machine",
+    "description": "Pick up toys and prizes with this classic claw machine, popular in arcades.",
+    "images": [
+      "./assets/Product Image/48.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "image": "./assets/Product Image/49.jpg",
+    "name": "Ferris Wheel Ride-on Toy",
+    "price": "400.00",
+    "category": "Entertainment Machine",
+    "description": "A delightful mini ferris wheel ride for children, perfect for indoor play areas.",
+    "images": [
+      "./assets/Product Image/49.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "image": "./assets/Product Image/50.jpg",
+    "name": "Interactive Dinosaur Game",
+    "price": "320.00",
+    "category": "Arcade Game Machine",
+    "description": "Step into the world of dinosaurs with this interactive arcade game.",
+    "images": [
+      "./assets/Product Image/50.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail1.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail2.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail6.jpg",
+      "./assets/img/details images/Rush-Ball-Arcade-Ticket-Redemption-Games-Detail3.jpg"
+    ]
+  }
 ]
